@@ -10,6 +10,7 @@ package io.github.gozhuyinglong.datastructures.tree;
 public class AVLTreeDemo {
 
     public static void main(String[] args) {
+        System.out.println("哇啊啊啊啊啊啊啊啊啊啊啊啊啊");
         System.out.println("----------------------添加元素");
         int[] array = {8, 5, 9, 3, 6, 7};
         AVLTree tree = new AVLTree();
