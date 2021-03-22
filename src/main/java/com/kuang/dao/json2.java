@@ -25,8 +25,8 @@ public class json2 {
                 "        }\n" +
                 "    ]\n" +
                 "}";
-
-//        System.out.println(a);
+        System.out.println();
+        System.out.println(a);
 //        System.out.println("_+++++++++");
 
 
